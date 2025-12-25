@@ -4,7 +4,7 @@ The dataset was preprocessed by filtering records based on **customer segment** 
 
 ## Analysis
 
-The analysis phase focused on **grouping and aggregating metrics** by customer segment and other categorical variables to compare behavior and performance across groups. Categorical variables were encoded and analyzed to support segmentation and trend identification. Exploratory visualizations—including **bar charts** (for category comparisons), **scatter plots** (to examine relationships between numerical variables), and **pie charts** (to show proportional distributions)—were used to explore patterns in the data. Charts were annotated with labels and titles to improve readability and interpretability.
+The analysis phase focused on **grouping and aggregating metrics** by customer segment and other categorical variables to compare behavior and performance across groups. Categorical variables were encoded and analyzed to support segmentation and trend identification. Exploratory visualizations, including **bar charts** (for category comparisons), **scatter plots** (to examine relationships between numerical variables), and **pie charts** (to show proportional distributions), were used to explore patterns in the data. Charts were annotated with labels and titles to improve readability and interpretability.
 
 ## Results
 
